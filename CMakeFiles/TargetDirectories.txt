@@ -1,3 +1,0 @@
-/home/maxim/cw-ip-213_keyboardninja/CMakeFiles/kbn.dir
-/home/maxim/cw-ip-213_keyboardninja/CMakeFiles/edit_cache.dir
-/home/maxim/cw-ip-213_keyboardninja/CMakeFiles/rebuild_cache.dir
