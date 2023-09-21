@@ -15,7 +15,8 @@ int main()
     srand(time(NULL));
     int random_num_of_future_text = 1 + rand() % 10;
     system("clear");
-    printf("Choose a type of text (type 1 or 2 on your keyboard):\n1 - Start typing!\n2 - Training\n");
+    printf("Choose a type of text (type 1 or 2 on your keyboard):\n1 - Start "
+           "typing!\n2 - Training\n");
     char type = getchar();
     int tmp1 = get_type_of_text(type);
     if (tmp1 == NOT_NUMBER) {
